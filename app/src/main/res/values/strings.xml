@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Course05Task05</string>
+    <string name="start_btn_label">START</string>
+    <string name="transition_api_label">Я изучаю Transition API</string>
+    <string name="ring_complete">Пройден четный круг!</string>
 </resources>
